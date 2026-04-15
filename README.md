@@ -94,3 +94,7 @@ Performed analysis to answer key business questions:
 
 ## Author
 Alankar Mali 
+
+
+<img width="919" height="672" alt="snap_Power_BI_customer_shopping_behavior" src="https://github.com/user-attachments/assets/346b4e37-a1d4-410a-9429-a9d325331b36" />
+
